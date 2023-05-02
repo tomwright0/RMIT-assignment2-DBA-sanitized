@@ -8,5 +8,5 @@ Sanitized for personal info and keys
 
 | Github User | RMIT ID | Name |
 | -- | -- | -- |
-| that-mint | s3785129 | ******** |
-| s3784588 | s3784588 | ********
+| that-mint | ***** | ******** |
+| s3784588 | ***** | ********
